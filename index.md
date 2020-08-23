@@ -41,7 +41,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {% include post-categories.html %}
 
       <div class="entry">
         {% if post.truncate %}
