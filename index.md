@@ -36,10 +36,28 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<ul>
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="/_posts{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {% include post-categories.html %}
+
+      <div class="entry">
+        {% if post.truncate %}
+          {% assign trunc = post.truncate | plus: 0 %}
+          {{ post.content | truncate: trunc }}
+        {% else %}
+          {{ post.content }}
+        {% endif %}
+
+      </div>
+
+      <div class="date">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+      </div>   
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
-</ul>
+</div>
