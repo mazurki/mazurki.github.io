@@ -18,12 +18,19 @@ h1 {
     padding: 0 0.25rem;
 }
 
-a {
+.post a {
     color: #006EFF;  
     cursor: pointer;
-    text-decoration: underline;
 }
 
 .post {
     margin-bottom: 32px;
 } 
+
+.a:hover { 
+    color: #005FDB; 
+}
+
+.a:visited {
+  color: #0057C8;
+}
