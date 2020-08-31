@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  color: #808080;
+  color: #7A869A;
 }
 
 h1 a {
@@ -23,28 +23,24 @@ h1 a:hover {
 }
 
 .post a {
-    color: #006EFF;  
+    color: #0058CC;  
     cursor: pointer;
 }
 
 p a {
-    color: #006EFF;  
+    color: #0058CC;  
     cursor: pointer;
 }
 
 
 p a:hover { 
-    color: #005FDB; 
+    color: #004CAF; 
+}
+
+.a:hover { 
+    color: #004CAF; 
 }
 
 .post {
     margin-bottom: 32px;
 } 
-
-.a:hover { 
-    color: #005FDB; 
-}
-
-.a:visited {
-  color: #0057C8;
-}
