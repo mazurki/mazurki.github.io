@@ -11,6 +11,10 @@ h1 a {
     color: #121000;
 }
 
+h1 a:hover {
+    color: #000000;
+}
+
 .post h1 a {
     background: #FFE500;
     color: #121000;
@@ -23,7 +27,7 @@ h1 a {
     cursor: pointer;
 }
 
-.p a {
+p a {
     color: #006EFF;  
     cursor: pointer;
 }
