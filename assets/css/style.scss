@@ -3,20 +3,26 @@
 
 @import "{{ site.theme }}";
 
-.post {
-  margin-bottom: 32px;
+body {
+  color: #808080;
 }
 
 h1 {
-  color: #121000;
+    color: #121000;
 }
 
-.post h1 {
-  background: #FFE500;
-  color: #121000;
-  font-size: 24;
+.post h1 a {
+    background: #FFE500;
+    color: #121000;
+    font-size: 1.625rem;
+    padding: 0 0.25rem;
 }
 
-p {
-  color: #808080;
-}
+a {
+    color: #006EFF;  
+    cursor: pointer;
+    text-decoration: underline;
+  
+.post {
+    margin-bottom: 32px;
+} 
