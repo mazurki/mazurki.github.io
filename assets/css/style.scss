@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-body { background: orange; }
+
+.post {
+  margin-bottom: 32px;
+}
