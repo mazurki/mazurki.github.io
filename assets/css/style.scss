@@ -32,6 +32,11 @@ p a {
     cursor: pointer;
 }
 
+
+p a:hover { 
+    color: #005FDB; 
+}
+
 .post {
     margin-bottom: 32px;
 } 
