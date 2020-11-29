@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Interviews"
+author: "Marta Mazurkiewicz"
 tags: ux interviews moderated tests
 ---
 
