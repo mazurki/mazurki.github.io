@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Networking"
+author: "Marta Mazurkiewicz"
 tags: ux networking meetup ux-open-coffee 
 ---
 
