@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Let's start"
+author: "Marta Mazurkiewicz"
 tags: intro ux start notes
 ---
 
