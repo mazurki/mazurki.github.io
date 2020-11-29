@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "User journey"
+author: "Marta Mazurkiewicz"
 tags: ux user-journey user-flows
 ---
 
