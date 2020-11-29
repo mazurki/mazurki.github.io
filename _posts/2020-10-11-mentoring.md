@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mentoring"
+author: "Marta Mazurkiewicz"
 tags: ux mentor mentoring situational-leadership-theory
 ---
 
