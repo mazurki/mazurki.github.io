@@ -63,6 +63,12 @@ a{
     font-size: 3rem;
     font-weight: 700;
 }
+
+.center-image{
+    display: block;
+    width: 50%;
+}
+
 .about-social{
     margin-top:2rem;
 }
