@@ -66,7 +66,9 @@ a{
 
 .center-image{
     display: block;
-    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
 }
 
 .about-social{
