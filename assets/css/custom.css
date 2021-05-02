@@ -115,7 +115,7 @@ a:hover {
 /* Larger than phone */
 @media (min-width: 550px) {
 .post-title{
-    font-size: 4rem;
+    font-size: 2rem;
     font-weight: 700;
 }
 }
