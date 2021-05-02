@@ -34,7 +34,7 @@ a:hover {
     padding:2rem;
 }
 .post-title{
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
 }
 .pre-article{
@@ -54,7 +54,7 @@ a:hover {
 }
 .post-excerpt a{
     text-decoration: underline;
-    font-size: 1rem;
+    font-size: 1em;
 }
 .pager{
     padding:3rem 1rem 2rem 1rem;
