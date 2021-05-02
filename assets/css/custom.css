@@ -12,6 +12,10 @@ a{
     text-decoration: none;
     color:#222222;
 }
+
+a:hover {
+  color: #607BD1;
+}
 .navbar{
     display: none;
 }
