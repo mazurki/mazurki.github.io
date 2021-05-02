@@ -64,6 +64,10 @@ a{
   text-align: center;
 }
 
+.about > ul {
+  text-align: center;
+}
+
 .about-title{
     font-size: 3rem;
     font-weight: 700;
