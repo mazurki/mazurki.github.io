@@ -31,10 +31,10 @@ a:hover {
 /* POST PREVIEW*/
 .post-header{
     text-align: center;
-    padding:2rem;
+    padding: 1em;
 }
 .post-title{
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: 700;
 }
 .pre-article{
