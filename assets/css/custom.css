@@ -59,6 +59,11 @@ a{
 .about{
   text-align: left;   
 }
+
+.about > h3 {
+  text-align: center;
+}
+
 .about-title{
     font-size: 3rem;
     font-weight: 700;
