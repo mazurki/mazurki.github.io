@@ -101,7 +101,7 @@ border-color: #607BD1;
     padding: 1rem;
 }
 .post-excerpt{
-    padding:1rem;
+    padding: 1rem 0 2rem;
 }
 .post-excerpt a{
     text-decoration: underline;
