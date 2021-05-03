@@ -54,6 +54,10 @@ blockquote p::after {
     content: '\201D';
 }
 
+.error {
+    text-align: center;
+}
+
 /* POST PREVIEW*/
 .post-header{
     text-align: left;
