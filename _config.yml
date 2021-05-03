@@ -15,7 +15,7 @@ your_name:
 copyright_name: Marta Mazurkiewicz
 # Build settings
 markdown: kramdown
-paginate: 5 #Total Number of Post in each Page
+paginate: 3 #Total Number of Post in each Page
 gems: [jekyll-paginate, jekyll-feed]
 exclude:
   - Gemfile
