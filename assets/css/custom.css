@@ -25,7 +25,7 @@ a:hover {
 
 .navbar{
     display: none;
-    padding-bottom: 2em;
+    margin-bottom: 2em;
 }
 
 .navbar-list{
