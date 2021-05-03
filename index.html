@@ -19,9 +19,10 @@ description: "a handome Typography"
     <p>In my spare time, I do yoga, read books and sometimes draw or create analog collages. I love being in nature but ask me to visit a museum or gallery and I'm yours! Traveling is my second name.</p>
   </div>
 </div>  
-{% for post in paginator.posts %}
+<div>
+  <h3 class="latest-post">Latest notes</h3>
+  {% for post in paginator.posts %}
         <div class="post-preview">
-          <h3 class="latest-post">Latest notes</h3>
             <header class="post-header">
               <div class="post-title">
                  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -59,3 +60,4 @@ description: "a handome Typography"
            {% endif %}
         </div>
         {% endif %}
+</div>
