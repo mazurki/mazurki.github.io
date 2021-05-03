@@ -57,6 +57,11 @@ blockquote p::after {
     content: '\201D';
 }
 
+figcaption {
+    text-align: center;
+    font-size: 1em;
+}
+
 .error {
     text-align: center;
 }
