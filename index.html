@@ -2,6 +2,23 @@
 layout: page
 description: "a handome Typography"
 ---
+<div class="about">
+    <div class="profile">
+        <img src="{{ site.baseurl }}/assets/images/marta-profile-pic.jpg" class="about-image"/>
+      </div>
+  <h3>Hello! &#128075;</h3>
+  {% if site.your_name %}
+  <div class="about-title">
+    {{ site.your_name }}
+  </div>
+  {% endif %}
+  <div class="about-desc">
+    <p>I'm Marta and I apply psychology to UX. Need a coaching session? Let's talk!</p>
+    <p>I have a master's degree in Psychology, I finished Human Resource Management postgraduate studies and I'm a certified coach. I learned design principles and UX in practice working as a UX designer and researcher. It became my passion.</p>
+    <p>Here, I write about my experience and my perspective on the above issues - UX, design, and coaching. I hope you'll enjoy it. If you need support in achieving your goals, here you can also schedule the coaching session.</p>
+    <p>In my spare time, I do yoga, read books and sometimes draw or create analog collages. I love being in nature but ask me to visit a museum or gallery and I'm yours! Traveling is my second name.</p>
+  </div>
+</div>  
 {% for post in paginator.posts %}
         <div class="post-preview">
             <header class="post-header">
