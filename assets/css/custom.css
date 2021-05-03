@@ -66,6 +66,10 @@ figcaption {
     text-align: center;
 }
 
+hr {
+    margin-bottom: 0em;
+}
+
 /* POST PREVIEW*/
 .post-header{
     text-align: left;
