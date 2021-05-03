@@ -83,7 +83,6 @@ border-color: #607BD1;
 }
 .post-header{
     text-align: left;
-    padding: 1em;
 }
 .post-title{
     font-size: 1rem;
@@ -91,7 +90,7 @@ border-color: #607BD1;
 }
 .pre-article{
     text-align: justify;
-    padding: 1rem;
+    padding: 1rem 0;
 }
 .pre-article > p:last-child {
   margin-bottom: 0;
@@ -157,7 +156,7 @@ border-color: #607BD1;
 }
 /*COACHING PAGE*/
 .coaching{
-  padding:1rem;
+  padding: 1rem;
 }
 .coaching-title{
     text-align: center;
@@ -216,6 +215,6 @@ border-color: #607BD1;
     color: #222; }
   
     .navbar-link.active {
-    color: #33C3F0; }
+    color: #607BD1; }
 
 }
