@@ -183,7 +183,7 @@ blockquote p::after {
   
     .navbar-link {
     text-transform: uppercase;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 600;
     letter-spacing: .2rem;
     margin: 0 1rem;
