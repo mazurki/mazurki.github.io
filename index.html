@@ -21,7 +21,8 @@ description: "a handome Typography"
 </div>  
 <div>
   <h3 class="latest-post">Latest notes</h3>
-  {% for post in paginator.posts %}
+</div>
+{% for post in paginator.posts %}
         <div class="post-preview">
             <header class="post-header">
               <div class="post-title">
@@ -60,4 +61,3 @@ description: "a handome Typography"
            {% endif %}
         </div>
         {% endif %}
-</div>
