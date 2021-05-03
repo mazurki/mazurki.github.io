@@ -79,9 +79,15 @@ hr {
 }
 
 .button-primary {
-color: #FFF;
-background-color: #607BD1;
-border-color: #607BD1;
+    color: #FFF;
+    background-color: #607BD1;
+    border-color: #607BD1;
+}
+
+.btn-success {
+    color: #FFF;
+    background-color: #607BD1;
+    border-color: #607BD1;
 }
 
 /* POST PREVIEW*/
