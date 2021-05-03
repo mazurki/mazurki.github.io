@@ -46,12 +46,6 @@ blockquote {
     margin: 0;
 }
 
-blockquote p {
-    padding: 15px;
-    background: #ABBFFF;
-    border-radius: 5px;
-}
-
 blockquote p::before {
     content: '\201C';
 }
