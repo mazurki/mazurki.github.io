@@ -84,10 +84,12 @@ border-color: #607BD1;
 .latest-post {
     text-align: center;
 }
+
 .post-header {
     text-align: left;
 }
-.post-title{
+
+.post-title {
     font-size: 1rem;
     font-weight: 700;
     margin-bottom: 0.5em
@@ -110,11 +112,11 @@ border-color: #607BD1;
     text-align: justify;
     padding: 1rem;
 }
-.post-excerpt{
-    padding: 1rem 0 2rem;
+.post-excerpt {
+    padding: 0rem 0 3rem;
 }
+
 .post-excerpt a{
-    text-decoration: underline;
     font-size: 1em;
 }
 
