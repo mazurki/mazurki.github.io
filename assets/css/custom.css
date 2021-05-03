@@ -4,10 +4,16 @@ body{
   word-wrap: break-word;
   line-height: 1.6;
 }
+
 h1,h2,h3,h4,h5,h6{
     font-family: 'Lora', serif;
     font-weight: bolder;
 }
+
+h1:hover {
+    color: #222222;
+}
+
 a{
     text-decoration: none;
     color:#222222;
@@ -16,6 +22,7 @@ a{
 a:hover {
   color: #607BD1;
 }
+
 .navbar{
     display: none;
 }
