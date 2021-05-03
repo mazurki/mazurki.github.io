@@ -81,17 +81,23 @@ border-color: #607BD1;
 .latest-post {
     text-align: center;
 }
-.post-header{
+.post-header {
     text-align: left;
 }
 .post-title{
     font-size: 1rem;
     font-weight: 700;
 }
-.pre-article{
+
+.post-subtitle {
+    color: #555555;
+}
+
+.pre-article {
     text-align: justify;
     padding: 1rem 0;
 }
+
 .pre-article > p:last-child {
   margin-bottom: 0;
 }
