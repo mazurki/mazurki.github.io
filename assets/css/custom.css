@@ -72,6 +72,9 @@ hr {
 }
 
 /* POST PREVIEW*/
+.latest.post {
+    text-align: center;
+}
 .post-header{
     text-align: left;
     padding: 1em;

@@ -6,7 +6,7 @@ description: "a handome Typography"
     <div class="profile">
         <img src="{{ site.baseurl }}/assets/images/marta-profile-pic.jpg" class="about-image"/>
       </div>
-  <h3>Hello! &#128075;</h3>
+  <h2>Hello! &#128075;</h2>
   {% if site.your_name %}
   <div class="about-title">
     {{ site.your_name }}
@@ -21,6 +21,7 @@ description: "a handome Typography"
 </div>  
 {% for post in paginator.posts %}
         <div class="post-preview">
+          <h3 class="latest-post">Latest notes</h3>
             <header class="post-header">
               <div class="post-title">
                  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
