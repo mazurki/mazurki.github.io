@@ -35,6 +35,31 @@ a:hover {
     text-align: center;
     padding: 2rem 1rem 1rem 1rem;
 }
+
+.quote {
+    font-style: italic;
+    font-size: 2rem;
+    text-align: center;
+}
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #ABBFFF;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
 /* POST PREVIEW*/
 .post-header{
     text-align: left;
@@ -135,6 +160,7 @@ a:hover {
   /* Navbar */
   .navbar + .docs-section {
     border-top-width: 0; }
+
   .navbar,
   .navbar-spacer {
     display: block;
@@ -144,19 +170,24 @@ a:hover {
     z-index: 99;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee; }
-  .navbar-spacer {
+  
+    .navbar-spacer {
     display: none; }
-  .navbar > .container {
+  
+    .navbar > .container {
     width: 100%; }
-  .navbar-list {
+  
+    .navbar-list {
     list-style: none;
     margin-bottom: 0;
     display: flex;
     justify-content: center; }
-  .navbar-item {
+  
+    .navbar-item {
     position: relative;
     margin-bottom: 0; }
-  .navbar-link {
+  
+    .navbar-link {
     text-transform: uppercase;
     font-size: 11px;
     font-weight: 600;
@@ -165,7 +196,8 @@ a:hover {
     text-decoration: none;
     line-height: 6.5rem;
     color: #222; }
-  .navbar-link.active {
+  
+    .navbar-link.active {
     color: #33C3F0; }
 
 }
