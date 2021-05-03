@@ -65,6 +65,7 @@ blockquote p::after {
 figcaption {
     text-align: center;
     font-size: 1em;
+    margin-bottom: 3em;
 }
 
 .error {
