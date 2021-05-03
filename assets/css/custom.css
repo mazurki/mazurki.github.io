@@ -152,6 +152,7 @@ border-color: #607BD1;
     display: flex;
     justify-content: center;
     list-style: none;
+    margin-bottom: 0;
 }
 .about-social ul li{
     text-align: center;
