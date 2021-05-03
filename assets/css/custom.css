@@ -147,6 +147,7 @@ border-color: #607BD1;
 .about-social ul li{
     text-align: center;
     padding: 1em;
+    margin-bottom: 0;
 }
 .copyright{
     text-align: center;
