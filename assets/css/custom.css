@@ -179,10 +179,14 @@ hr {
 
 }
 /*COACHING PAGE*/
-.coaching{
+.coaching {
   padding: 1rem;
 }
-.coaching-title{
+.coaching-title {
+    text-align: center;
+}
+
+.coaching-desc {
     text-align: center;
 }
 /* Larger than phone */
