@@ -23,10 +23,10 @@
           <div class="about-social">
             <ul>
             {% if site.email_username %}
-              <li><a href="mailto:{{ site.email_username }}">Email</a></li>
+              <li><a href="mailto:{{ site.email_username }}"><i class="fas fa-envelope"></i></a></li>
             {% endif %}
             {% if site.linkedin_username %}
-            <li><a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
+            <li><a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fab fa-linkedin"></i></a></li>
             {% endif %}
             {% if site.facebook_username %}
               <li><a href="https://www.facebook.com/{{ site.facebook_username }}">Facebook</a></li>
@@ -35,15 +35,15 @@
               <li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
             {% endif %}
             {% if site.behance_username %}
-              <li><a href="https://behance.net/{{ site.behance_username }}">Behance</a></li>
+              <li><a href="https://behance.net/{{ site.behance_username }}"><i class="fab fa-behance-square"></i></a></li>
             {% endif %}
             {% if site.medium_username %}
-              <li><a href="https://{{ site.medium_username }}.medium.com/">Medium</a></li>
+              <li><a href="https://{{ site.medium_username }}.medium.com/"><i class="fab fa-medium"></i></a></li>
             {% endif %}
             {% if site.github_username %}
-              <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+              <li><a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github-square"></i></a></li>
             {% endif %}
-            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
+            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fas fa-rss-square"></i></a></li>
             </ul>
           </div>
         </div>
