@@ -119,8 +119,7 @@ hr {
 }
 
 .post-article{
-    text-align: justify;
-    padding: 1rem;
+    padding: 1rem 0;
 }
 .post-excerpt {
     padding: 0rem 0 3rem;
