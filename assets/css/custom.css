@@ -120,13 +120,14 @@ blockquote p::after {
 }
 .about-social ul{
     width: 100%;
-    list-style: none;
-    padding-left: 2em;
-    padding-right: 2rm;
-}
-.about-social ul li{
     display: flex;
     justify-content: center;
+    list-style: none;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.about-social ul li{
+    text-align: center;
 }
 .copyright{
     text-align: center;
