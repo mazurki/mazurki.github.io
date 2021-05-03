@@ -119,12 +119,12 @@ blockquote p::after {
     margin-top:2rem;
 }
 .about-social ul{
+    width: 100%;
     list-style: none;
     padding-left: 2em;
     padding-right: 2rm;
 }
 .about-social ul li{
-    width: 100%;
     display: flex;
     justify-content: center;
 }
