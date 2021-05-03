@@ -183,10 +183,6 @@ hr {
   padding: 1rem;
 }
 
-.coaching-desc {
-    text-align: center;
-}
-
 /* Larger than phone */
 @media (min-width: 550px) {
 .post-title{
