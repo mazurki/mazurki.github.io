@@ -132,7 +132,8 @@ hr {
 }
 
 .about-social{
-    margin-top:2rem;
+    margin-top: 2rem;
+    margin-bottom: 0rem;
 }
 .about-social ul{
     width: 100%;
