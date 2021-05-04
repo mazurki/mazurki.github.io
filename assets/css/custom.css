@@ -18,9 +18,13 @@ h1:hover {
     color: #222222;
 }
 
-a{
+a {
     text-decoration: none;
     color:#222222;
+}
+
+p a {
+    color: #607BD1;
 }
 
 a:hover {
