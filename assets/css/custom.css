@@ -141,7 +141,8 @@ hr {
 
 /*About*/
 .about{
-  text-align: left;   
+  text-align: left; 
+  padding-bottom: 2em;  
 }
 
 .about > h2 {
