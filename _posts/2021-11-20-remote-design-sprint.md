@@ -8,7 +8,8 @@ subtitle: Have you heard about Design Sprint? Last week I could cofacilitate suc
 Have you heard about Design Sprint? It's a five days intensive workshop. During that time, participants define the problem, look for a solution and test it with real users. It's not only for designers but rather for a multidisciplinary group of people working on the same topic. More about it you can read [here] (https://www.thesprintbook.com/the-design-sprint). <br/>
 <br/>
 Last week I could cofacilitate such an event for the first time. And it was a remote Design Sprints. Here are my thoughts on that.<br/>
-<br/><ol>
+<br/>
+<ol>
 <li>Have a good partner in crime. Prepare the setup with the second facilitator. Divide work and exercises you will lead. Each day meet for a short discussion before and after the workshop. In the morning, check if you're ready, and how you can help each other that day. In the evening, do a short summary, give yourself feedback and refine your strategy for the next day.</li>
 <li>Create working space. All participants must look at the same thing during the event, so having a virtual board is helpful. There is a lot of supportive software, ie. Miro or FigJam.</li>
 <li>Find a convenient way to communicate with another facilitator. In my case, we decided on private chat in Zoom. We didn't want to jump from one window to another on the laptop or look on the phone.</li>
