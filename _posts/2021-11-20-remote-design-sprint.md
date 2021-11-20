@@ -5,7 +5,7 @@ author: "Marta Mazurkiewicz"
 tags: UX design sprint design moderator workshop
 subtitle: Have you heard about Design Sprint? Last week I could cofacilitate such an event for the first time.
 ---
-Have you heard about Design Sprint? It's a five days intensive workshop. During that time, participants define the problem, look for a solution and test it with real users. It's not only for designers but rather for a multidisciplinary group of people working on the same topic. More about it you can read [here] (https://www.thesprintbook.com/the-design-sprint). <br/>
+Have you heard about Design Sprint? It's a five days intensive workshop. During that time, participants define the problem, look for a solution and test it with real users. It's not only for designers but rather for a multidisciplinary group of people working on the same topic. More about it you can read [here](https://www.thesprintbook.com/the-design-sprint). <br/>
 <br/>
 Last week I could cofacilitate such an event for the first time. And it was a remote Design Sprints. Here are my thoughts on that.<br/>
 <br/>
@@ -19,5 +19,4 @@ Last week I could cofacilitate such an event for the first time. And it was a re
 <li>Always tell the group how much time they have on the task. Set the timer as well. Use music (some tools already provide it) to keep participants focused or creative.</li>
 <li>When presenting the work, share your screen. A group may follow you in the software, or you can follow the current presenter. In that way, all of you will look at the same area of the screen.</li>
 <li>Prepare a separate tool for the retro. No matter if you do it as a last part of the workshop or after it. People should feel comfortable with sharing feedback, so anonymity is crucial. Explain how you will use it and if you share it with a group.</li>
-<li>Be flexible, and don't be afraid to improvise! Not everything goes with the plan, but don't be stressed and have fun too :)<li/>
-</ol>
+<li>Be flexible, and don't be afraid to improvise! Not everything goes with the plan, but don't be stressed and have fun too :)<li/></ol>
