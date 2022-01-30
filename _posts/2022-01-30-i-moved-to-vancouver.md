@@ -13,4 +13,4 @@ My partner got a job in Vancouver, and we decided to move. We're temporarily liv
 I still work for OLX, with a nine-hour difference between Canada and Europe. Honestly, it's pretty cool to have morning appointments (I'm motivated to get up at 7 am) and then all day to complete the task without any distractions. It's quite an efficient solution. However, I may start looking for a job in the long run. I have a Canadian work permit, and it shouldn't be a problem. I am fascinated by the work culture in different countries, so this is a unique opportunity to get familiar with the local companies. I can learn a lot by being here, and that's the best part of my move. <br/>
 <br/>
 
-![Marta in Yaletown, Vancouver.](/assets/images/marta-vancouver.jpg){:class="img-responsive"}
+![Marta in Yaletown, Vancouver.](/assets/images/marta-vancouver.jpg){:class="img-responsive marta-post-image"}
