@@ -79,6 +79,8 @@ figure {
 
 .error {
     text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
 
 hr {
