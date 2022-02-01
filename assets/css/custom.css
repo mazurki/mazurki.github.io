@@ -99,6 +99,10 @@ hr {
     border-color: #607BD1;
 }
 
+.download {
+    text-align: center;
+}
+
 /* POST PREVIEW*/
 .latest-post {
     text-align: left;
