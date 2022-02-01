@@ -95,6 +95,11 @@ button.button-primary {
     border-color: #607BD1;
 }
 
+button.button-primary:hover {
+    color: #FFF;
+    background-color: #222222;
+}
+
 .btn-success {
     color: #FFF;
     background-color: #607BD1;
