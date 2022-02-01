@@ -87,7 +87,7 @@ hr {
     border-width: 0;
 }
 
-.button-primary {
+.button.button-primary {
     color: #FFF;
     background-color: #607BD1;
     border-color: #607BD1;
