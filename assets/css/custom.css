@@ -159,6 +159,9 @@ button.button-primary:hover {
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .tag-list li:not(:last-child)::after {
@@ -166,11 +169,13 @@ button.button-primary:hover {
     padding-inline: .5em;
 }
 
+/*
 .tag-list-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+*/
 
 /*About*/
 .about{
