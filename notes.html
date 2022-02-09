@@ -9,6 +9,11 @@ description: "Notes"
 DEBUG:
 {{ tags }}
 </pre>
+{% if tags %}<ul class="post-tags">
+  {% for tag in tags %}
+  <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
+  {% endfor %}
+</ul>{% endif %}
 
 {% for post in site.posts %}
   <article>

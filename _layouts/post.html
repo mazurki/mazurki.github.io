@@ -12,7 +12,7 @@ layout: page
               </div>
               {% if page.tags %}<ul class="post-tags">
                 {% for tag in page.tags %}
-                <li><a href="#">{{ tag }}</a></li>
+                <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
                 {% endfor %}
               </ul>{% endif %}
             </header>
