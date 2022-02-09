@@ -2,7 +2,7 @@
 layout: post
 title:  "Specializations"
 author: "Marta Mazurkiewicz"
-tags: ux specializations
+tags: ux personal
 subtitle: Yesterday, I talked with my UX friend about the industry. After more than three years in this position, I'm still concerned about my knowledge and skills.
 ---
 

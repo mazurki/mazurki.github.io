@@ -2,7 +2,7 @@
 layout: post
 title:  "Complex apps design"
 author: "Marta Mazurkiewicz"
-tags: ux nn-group 5layer-framework complex-apps medium
+tags: ux design job glossary 
 subtitle: When I joined my current company, I experienced a crisis.
 ---
 

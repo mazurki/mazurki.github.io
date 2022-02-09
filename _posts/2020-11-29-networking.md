@@ -2,7 +2,7 @@
 layout: post
 title:  "Networking"
 author: "Marta Mazurkiewicz"
-tags: ux networking meetup ux-open-coffee 
+tags: ux networking
 subtitle: Last Wednesday, I joined UX Open Coffee, an on-line meetup for Warsaw IDF (Interaction Design Foundation) Group.
 ---
 

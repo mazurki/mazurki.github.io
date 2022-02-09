@@ -2,7 +2,7 @@
 layout: post
 title:  "Priorities"
 author: "Marta Mazurkiewicz"
-tags: ux priorities personal
+tags: ux personal
 subtitle: I wasn't here for a while. Shame on me.
 ---
 

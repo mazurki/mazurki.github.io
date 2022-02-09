@@ -2,7 +2,7 @@
 layout: post
 title:  "Theme analysis"
 author: "Marta Mazurkiewicz"
-tags: ux research theme analysis
+tags: ux research tools
 subtitle: Do you know the feeling when you have a lot of material to analyze and don't know where to start?
 ---
 

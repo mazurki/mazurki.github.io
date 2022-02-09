@@ -2,7 +2,7 @@
 layout: post
 title:  "I moved to Vancouver"
 author: "Marta Mazurkiewicz"
-tags: canada vancouver
+tags: canada personal
 subtitle: If I had to describe Vancouver in a few words, I'd say glass buildings, water, runners, and dogs.
 ---
 

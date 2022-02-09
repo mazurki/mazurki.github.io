@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's start"
 author: "Marta Mazurkiewicz"
-tags: intro ux start notes
+tags: ux personal designer
 subtitle: Hi! I'm Marta and I work as a UX designer.
 ---
 

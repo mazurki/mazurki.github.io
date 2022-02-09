@@ -2,7 +2,7 @@
 layout: post
 title:  "Mentoring"
 author: "Marta Mazurkiewicz"
-tags: ux mentor mentoring situational-leadership-theory
+tags: ux mentoring job team
 subtitle: A few weeks ago, I got a new role. We hired new designers, and I'm a buddy to one of them.
 ---
 
