@@ -2,7 +2,7 @@
 layout: post
 title:  "Interviews"
 author: "Marta Mazurkiewicz"
-tags: ux research job
+tags: ux research personal
 subtitle: Not so long ago, I was bored with my work. Unnoticed, monotony crept in quietly...
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Remote Design Sprint"
 author: "Marta Mazurkiewicz"
-tags: UX job design workshops
+tags: UX design workshops
 subtitle: Have you heard about Design Sprint? Last week I could cofacilitate such an event for the first time.
 ---
 Have you heard about Design Sprint? It's a five days intensive workshop. During that time, participants define the problem, look for a solution and test it with real users. It's not only for designers but rather for a multidisciplinary group of people working on the same topic. More about it you can read [here](https://www.thesprintbook.com/the-design-sprint). <br/>

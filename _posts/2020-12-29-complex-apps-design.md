@@ -2,7 +2,7 @@
 layout: post
 title:  "Complex apps design"
 author: "Marta Mazurkiewicz"
-tags: ux design job glossary 
+tags: ux design glossary 
 subtitle: When I joined my current company, I experienced a crisis.
 ---
 

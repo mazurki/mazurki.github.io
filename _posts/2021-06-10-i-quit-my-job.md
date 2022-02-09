@@ -2,7 +2,7 @@
 layout: post
 title:  "I quit my job"
 author: "Marta Mazurkiewicz"
-tags: ux job research personal
+tags: ux research personal
 subtitle: One week ago I quit my job. After three years of working there as a UX designer and researcher, I can say that this was a great first job.
 ---
 
