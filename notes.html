@@ -5,7 +5,10 @@ description: "Notes"
 ---
 
 {% assign tags = (site.post | map: 'tags' | uniq) %}
+<pre>
+DEBUG:
 {{ tags }}
+</pre>
 
 {% for post in site.posts %}
   <article>
