@@ -150,20 +150,26 @@ button.button-primary:hover {
     font-size: 1em;
 }
 
-.post-tags {
+.tag-list {
     font-size: 0;
     list-style: none;
 }
 
-.post-tags li {
+.tag-list li {
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
 }
 
-.post-tags li:not(:last-child)::after {
+.tag-list li:not(:last-child)::after {
     content: '∙';
     padding-inline: .5em;
+}
+
+.tag-list-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /*About*/
