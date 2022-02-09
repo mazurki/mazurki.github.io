@@ -5,10 +5,6 @@ description: "Notes"
 ---
 
 {% assign tags = (site.posts | map: 'tags' | uniq) %}
-<pre>
-DEBUG:
-{{ tags }}
-</pre>
 {% if tags %}<ul class="post-tags">
   {% for tag in tags %}
   <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
