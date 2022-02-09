@@ -10,6 +10,9 @@ layout: page
               <div class="post-subtitle">
                 Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}
               </div>
+              <div class="post-tags">
+                { % if post.tags %}{{post.tags}}
+              </div>
             </header>
             <article class="post-article">
              {{ content }} 
