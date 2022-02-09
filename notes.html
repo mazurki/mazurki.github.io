@@ -4,7 +4,7 @@ title: Notes
 description: "Notes"
 ---
 
-{% assign tags = (site.post | map: 'tags' | uniq) %}
+{% assign tags = (site.posts | map: 'tags' | uniq) %}
 <pre>
 DEBUG:
 {{ tags }}
