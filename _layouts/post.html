@@ -11,7 +11,7 @@ layout: page
                 Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}
               </div>
               <div class="post-tags">
-                { % if page.tags %}{{page.tags}}
+                {{page.tags}}
               </div>
             </header>
             <article class="post-article">
