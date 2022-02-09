@@ -150,6 +150,22 @@ button.button-primary:hover {
     font-size: 1em;
 }
 
+.post-tags {
+    font-size: 0;
+    list-style: none;
+}
+
+.post-tags li {
+    display: inline-block;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.post-tags li:not(:last-child)::after {
+    content: '∙';
+    padding-inline: .5em;
+}
+
 /*About*/
 .about{
   text-align: left; 
