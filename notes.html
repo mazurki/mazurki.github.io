@@ -4,6 +4,9 @@ title: Notes
 description: "Notes"
 ---
 
+{% assign tags = (site.post | map: 'tags' | uniq) %}
+{{ tags }}
+
 {% for post in site.posts %}
   <article>
       <div class="post-title">
