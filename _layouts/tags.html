@@ -1,6 +1,13 @@
 ---
 layout: page
 ---
+{% assign tags = (site.posts | map: 'tags' | uniq) %}
+{% if tags %}<ul class="tag-list tag-list-nav">
+  {% for tag in tags %}
+  <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
+  {% endfor %}
+</ul>{% endif %}
+
 
 <div class="snippets">
   <h3 class="snippets-heading">Posts tagged with "{{ page.tag-name }}"</h3>
