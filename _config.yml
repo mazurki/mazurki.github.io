@@ -13,6 +13,10 @@ github_username: mazurki
 facebook_username:
 your_name: 
 copyright_name: Marta Mazurkiewicz
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
 # Build settings
 markdown: kramdown
 paginate: 3 #Total Number of Post in each Page
