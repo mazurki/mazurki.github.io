@@ -14,16 +14,7 @@ TAG-NAME:
 
   {% for post in site.posts %}
     {% if post.tags contains page.tag-name %}
-    <article>
-      <div class="post-title">
-          <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-       </div>
-    <time class="post-subtitle" datetime="{{ post.date | date: "%B %-d, %Y" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.subtitle | markdownify }}
-    <div class="post-excerpt">
-        <a href="{{ post.url | prepend: site.baseurl }}">Continue Reading &rarr;</a>
-      </div>
-  </article>
+      {% include post-excerpt.html %}
     {% endif %}
   {% endfor %}
 </div>
