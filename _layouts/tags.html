@@ -10,7 +10,7 @@ TAG-NAME:
 </pre>
 
 <div class="snippets">
-  <h3 class="snippets-heading">Posts tagged with "{{ tag }}"</h3>
+  <h3 class="snippets-heading">Posts tagged with "{{ page.tag-name }}"</h3>
 
   {% for post in site.posts %}
     {% if post.tags contains tag %}
