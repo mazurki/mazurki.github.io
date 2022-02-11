@@ -11,6 +11,10 @@ end
 
 def generate_tag_file(tag)
   File.open("_tags/#{tag}.md", "wb") do |file|
-    file << "---\ntag-name: #{tag}\n---\n"
+    out = "---" + "\n" +
+          "layout: tags" + "\n" +
+          "tag-name: #{tag}" + "\n" +
+          "---" + "\n"
+    file << out
   end
 end
