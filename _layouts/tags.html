@@ -13,7 +13,7 @@ TAG-NAME:
   <h3 class="snippets-heading">Posts tagged with "{{ page.tag-name }}"</h3>
 
   {% for post in site.posts %}
-    {% if post.tags contains tag %}
+    {% if post.tags contains page.tag-name %}
       {% include snippet.html %}
     {% endif %}
   {% endfor %}
