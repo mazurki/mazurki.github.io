@@ -3,10 +3,10 @@ layout: page
 ---
 
 <div class="snippets">
-  <h3 class="snippets-heading">Posts tagged with "{{ tag }}"</h3>
+  <h1 class="snippets-heading">Articles tagged with "{{ page.tag-name }}"</h1>
 
   {% for post in site.posts %}
-    {% if post.tags contains tag %}
+    {% if post.tags contains page.tag-name %}
       {% include snippet.html %}
     {% endif %}
   {% endfor %}
