@@ -2,6 +2,11 @@
   <div class="post-title">
     <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
   </div>
+  {% if page.tags %}<ul class="tag-list">
+    {% for tag in page.tags %}
+    <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
+    {% endfor %}
+  </ul>{% endif %}
   <time class="post-subtitle" datetime="{{ post.date | date: " %B %-d, %Y" }}">{{ post.date | date_to_long_string }}</time>
   {{ post.subtitle | markdownify }}
   <div class="post-excerpt">
