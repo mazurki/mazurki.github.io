@@ -18,6 +18,10 @@ h1:hover {
     color: #222222;
 }
 
+.in-post-headers {
+    margin-bottom: 0rem;
+}
+
 a {
     text-decoration: none;
     color:#222222;
