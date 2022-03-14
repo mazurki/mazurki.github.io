@@ -104,6 +104,11 @@ button.button-primary:hover {
     background-color: #222222;
 }
 
+.resume {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
 .btn-success {
     color: #FFF;
     background-color: #607BD1;
