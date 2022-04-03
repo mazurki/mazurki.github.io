@@ -8,7 +8,7 @@ subtitle: 'It is not the answer that enlightens, but the question.' Eugène Ione
 
 >It is not the answer that enlightens, but the question.<br/>
 >
->`r tufte::quote_footer('---Eugène Ionesco')`
+>~Eugène Ionesco
 
 <br/>
 Today's post has its roots in the case study I did on one of the interviews. I was supposed to present a plan for the discovery phase. What is it? To put it bluntly, the moment when you are looking for answers to your questions. To do it, you need, well, questions.<br/>
