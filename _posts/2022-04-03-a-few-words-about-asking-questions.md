@@ -5,8 +5,7 @@ author: "Marta Mazurkiewicz"
 tags: ux research tools
 subtitle: 'It is not the answer that enlightens, but the question.' Eugène Ionesco 
 ---
-It is not the answer that enlightens, but the question. Eugène Ionesco <br/>
-<br/>
+>It is not the answer that enlightens, but the question. Eugène Ionesco
 Today's post has its roots in the case study I did on one of the interviews. I was supposed to present a plan for the discovery phase. What is it? To put it bluntly, the moment when you are looking for answers to your questions. To do it, you need, well, questions.<br/>
 <br/>
 I feel like we ask many questions, and at the same time, we don't do it at all. Who didn't ask Google about barely anything recently? (Look, the question again!) How to bake a cheesecake? Who did invent a telescope? Why are people poor? Where to go on holiday in February? And who did ask the friend or partner about it? Or at least what are their plans for the upcoming weekend? We tend to say a lot about ourselves and exchange statements. However, questions usually push the conversation forward and open doors with new unknown areas to explore.<br/>
