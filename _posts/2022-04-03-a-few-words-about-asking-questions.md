@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A few words about asking questions"
+title: "A few words about asking questions"
 author: "Marta Mazurkiewicz"
 tags: ux research tools
 subtitle: 'It is not the answer that enlightens, but the question.' Eugène Ionesco 
 ---
->It is not the answer that enlightens, but the question. Eugène Ionesco <br/>
+It is not the answer that enlightens, but the question. Eugène Ionesco <br/>
 <br/>
 Today's post has its roots in the case study I did on one of the interviews. I was supposed to present a plan for the discovery phase. What is it? To put it bluntly, the moment when you are looking for answers to your questions. To do it, you need, well, questions.<br/>
 <br/>
