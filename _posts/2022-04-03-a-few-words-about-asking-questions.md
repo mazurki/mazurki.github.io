@@ -3,7 +3,7 @@ layout: post
 title: "A few words about asking questions"
 author: "Marta Mazurkiewicz"
 tags: ux research personal
-subtitle: "It is not the answer that enlightens, but the question." Eugène Ionesco
+subtitle: *It is not the answer that enlightens, but the question.* Eugène Ionesco
 
 ---
 
