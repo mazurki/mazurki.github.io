@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Specializations"
+title:  "Specializations in UX industry"
 author: "Marta Mazurkiewicz"
 tags: ux personal
 subtitle: Yesterday, I talked with my UX friend about the industry. After more than three years in this position, I'm still concerned about my knowledge and skills.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New job"
+title:  "I joined OLX Group"
 author: "Marta Mazurkiewicz"
 tags: ux research personal
 subtitle: I was thinking for a while that maybe one day I would switch to UX Research. I didn't expect that it would happen so fast.
