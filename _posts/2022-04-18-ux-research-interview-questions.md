@@ -8,6 +8,7 @@ subtitle: I spent the last months being interviewed for the UX Researcher positi
 
 I spent the last months being interviewed for the UX Researcher position. I've talked to dozens of recruiters, team leaders, and team members. After each such conversation, I wrote down the questions they asked me. Here is a comprehensive list of them.<br/>
 <br/>
+
 <h5 class="in-post-headers">Company and product-related</h5><br/>
 You may expect recruiters will check your knowledge about their company and product. I can't imagine applying for the position without any clue about the firm. But I guess it happens if recruiters ask about it anyway. Once, it felt almost like an attack. The recruiter shot the very first question without any chit-chat. 'What do you know about the product and our company?' Bang!<br/>
 - Why do you want to work with us?<br/>
@@ -39,7 +40,7 @@ This is a background check in various forms. Usually, they asked me about the co
 <br/>
 
 <h5 class="in-post-headers">Methods and ways of work</h5><br/>
-- I expected more of them. However, I sometimes mentioned the answers describing my previous roles. During the portfolio presentation for the team, I also showed some methods I used.<br/>
+I expected more of them. However, I sometimes mentioned the answers describing my previous roles. During the portfolio presentation for the team, I also showed some methods I used.<br/>
 - What research methods do you use?<br/>
 - Do you know and use affinity maps?<br/>
 - Have you ever done usability tests?<br/>
