@@ -78,6 +78,6 @@ I wasn't prepared for them...
 - What must happen that you would decide to leave our company?<br/>
 <br/>
 <br/>
-So that's it. What answers did I give? Was it successful? Not always. However, I passed almost every conversation with the recruiter and finally got the job. I'll write about it next time.<br/>
+So that's it. What answers did I give? Was it successful? Not always. However, I passed almost every conversation with the recruiter and finally got the job. I'll write about it next time. &#128522;<br/>
 <br/>
 If you're not sure how you'd perform in a job interview, try to find a mentor on <a href="https://app.adplist.org/">ADP List</a>. There are so many talented people there, and they are eager to discuss all your issues. Give it a try! I did it, and that strengthened my confidence a lot.<br/>
