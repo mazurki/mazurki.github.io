@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Researchers responsibility"
+title: "Researcher's responsibility"
 author: "Marta Mazurkiewicz"
 tags: UX research personal mentoring
-subtitle: I considered myself quite experienced in setting and achieving goals. Recently, I had to set goals in a new company, and after presenting them to my manager, he asked me: Why do you want to do this?. Consternation. Isn't it obvious?
+subtitle: "I considered myself quite experienced in setting and achieving goals. Recently, I had to set goals in a new company, and after presenting them to my manager, he asked me: Why do you want to do this?. Consternation. Isn't it obvious?"
 ---
 
 I considered myself quite experienced in setting and achieving goals. Recently, I had to set goals in a new company, and after presenting them to my manager, he asked me: "Why do you want to do this?". Consternation. Isn't it obvious? <br/>
