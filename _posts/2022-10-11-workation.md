@@ -12,4 +12,4 @@ I recently spent a month working from Croatia. In the beginning, I planned to go
 <br/>
 It's easier if you know the place in advance. You can be sure about an internet connection or a comfortable space to work. I checked the internet plans before as well. I also let my team know that I would work different hours, and they wouldn't be surprised. Because I was at that location previously, I didn't feel the urge to do sightseeing. That's why I could enjoy the views and the weather rather than rushing to the museum. I didn't have a fear of missing something. And it was a great time.<br/>
 <br/>
-![Marta in Croatia.](/assets/images/marta-croatia.jpg){:class="img-responsive marta-post-image"}
+![Marta in Croatia.](/assets/images/marta-croatia.JPGDebug picture){:class="img-responsive marta-post-image"}
